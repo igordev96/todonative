@@ -2,7 +2,7 @@
 
 Application developed to be used as todo list, practicing a lot of features of expo and react native.
 
-## :hammer: Ferramentas usadas
+## :hammer: Used techs
 
 - ⚛️ **React-native**
 - ⚛️ **Expo**
